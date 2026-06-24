@@ -1,4 +1,4 @@
-# Security Log Parser
+# Auth Log Parser
 
 ## Summary
 This Python script automates the scanning of local auth log files to identify potential security incidents. It searches line-by-line for specific threat signatures, handles mixed text casing seamlessly, and prints the exact line location of every match. The script concludes by generating a summary report displaying the total number of security events detected.
